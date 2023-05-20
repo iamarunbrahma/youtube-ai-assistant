@@ -1,6 +1,8 @@
 # Youtube AI Assistant
-In this project, transcript is being extracted from youtube video and then we get summarized text from extracted transcript.
-We can also interact with the chat interface to get instant answers for queries related to the youtube video.
+This project is built for the purpose of getting summarized text specifically for long duration youtube videos and 
+also to chat with AI assistant to get instant answers for your queries related to that youtube video.<br>
+If we stumble upon an interesting video, it's usually not possible to watch the entire video due to time constraint. 
+Hence, we can use this app to get summarized knowledge about that specific video.
 
 This project is hosted on HuggingFace Spaces: [Live Demo of Youtube AI Assistant](https://huggingface.co/spaces/heliosbrahma/ai-youtube-assistant).
 
